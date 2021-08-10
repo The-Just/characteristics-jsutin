@@ -7,8 +7,6 @@ layout: default
 # Steckbrief
 
 
----
-
 ## zur Person
 
 ##### Name: <span style="font-size:1.2em;"> Jsutin Hoffmann
