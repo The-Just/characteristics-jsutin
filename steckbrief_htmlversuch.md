@@ -1,5 +1,5 @@
 ---
-title: Steckbrief Jsutin
+title: Steckbrief Justin
 permalink: /
 layout: default
 ---
