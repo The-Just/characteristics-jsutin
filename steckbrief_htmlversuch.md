@@ -11,7 +11,7 @@ layout: default
 
 ##### Name: <span style="font-size:1.2em;"> Jsutin Hoffmann
 ##### Alter: <span style="font-size:1.2em;"> 17
-##### Charakter: <span style="font-size:1.2em;"> 
+##### Charakter: <span style="font-size:1.2em;"> hilfs- und lernbereit, tollerant
 ##### Familienstatus: <span style="font-size:1.2em;"> liiert, ledig
 ##### Schulischer Werdegang: <span style="font-size:1.2em;"> 
 ##### <span style="font-size:0.85em;">- KiTa Erlebniswelt, bis 2010
