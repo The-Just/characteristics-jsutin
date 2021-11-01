@@ -66,7 +66,8 @@ CPU :
 
 GPU :
 
-    NVIDIA GeForce GTX Titan X
+    NVIDIA GeForce GTX Titan X  (SLI)
+    NVIDIA GeForce RTX 3060     (SLI)
 
 RAM :
 
