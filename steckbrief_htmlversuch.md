@@ -58,7 +58,7 @@ layout: default
 
 Betriebssystem :
 
-    Microsoft Windows 10 Pro x64 21H1
+    Microsoft Windows 10 Pro x64 21H2
 
 CPU : 
 
