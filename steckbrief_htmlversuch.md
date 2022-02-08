@@ -68,6 +68,7 @@ GPU :
 
     NVIDIA GeForce GTX Titan X  (SLI)
     NVIDIA GeForce RTX 3060     (SLI)
+    AMD Radeon RX Vega 64       (logischerweise nicht SLI)
 
 RAM :
 
@@ -85,6 +86,9 @@ Peripherie :
   
     Headset:
     LOGITECH G935
+  
+    Webcam:
+    LOGITECH B525 Business HD 1080
     
     Soundsystem:
     LOGITECH Z906
@@ -99,7 +103,7 @@ Peripherie :
     SAMSUNG SMS24A450
     SAMSUNG UE43RU7179
     
-    Mehrere USB HUBs
+    Mehrere USB HUBs und Sticks die man aber DEFINITIV nicht aufzählen muss
     
 
 </details>
