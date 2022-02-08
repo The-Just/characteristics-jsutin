@@ -62,7 +62,7 @@ Betriebssystem :
 
 CPU : 
 
-    Intel i9-10900
+    Intel i9-10900 mit CORSAIR h150i CAPELLIX
 
 GPU :
 
@@ -71,11 +71,36 @@ GPU :
 
 RAM :
 
-    Corsair Vengeance RGB PRO 2x16 2666
+    Corsair Vengeance RGB PRO 4x16 2666
 
 Peripherie : 
 
-    Das ist nun glaube ich wirklich unnötig
+    Weil Felix B das wollte
+    
+    Tastatur:  
+    CORSAIR K100
+  
+    Maus:
+    LOGITECH G900
+  
+    Headset:
+    LOGITECH G935
+    
+    Soundsystem:
+    LOGITECH Z906
+    
+    Lenkrad:
+    LOGITECH Heavy Equipment Bundle
+    
+    Monitor:
+    ASUS VE278
+    SAMSUNG S27E450
+    SAMSUNG S32E590C
+    SAMSUNG SMS24A450
+    SAMSUNG UE43RU7179
+    
+    Mehrere USB HUBs
+    
 
 </details>
 
